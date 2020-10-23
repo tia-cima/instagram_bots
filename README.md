@@ -1,5 +1,5 @@
 # instagram_bots
-Una via semplice per l'automazione di tasks Instagram quotidiane, dal commentare ogni singolo post sotto un certo hashtag a mettere like a tutti i post di un singolo utente. Semplice e automatico.
+Una via semplice per l'automazione di tasks Instagram quotidiane, dal commentare ogni singolo post sotto un certo hashtag a mettere like a tutti i post di un singolo utente. Semplice e automatico. (ITA)
 
 Il programma permette di effettuare tre tipi di azioni: 
 -Per utente
