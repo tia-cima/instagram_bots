@@ -196,7 +196,7 @@ class Post:
             username, passw = login(self.user, self.passw)
             print("\n----------------------------")
             delay = int(input("\nInserisci l'arco di tempo fra un post e l'altro (secondi): "))
-            path = input("\nInserire il percorso della cartella con le foto/video da postare: (ad esempio foto/ oppure Desktop/instabot/foto): ")
+            path = input("\nInserire il percorso della cartella con le foto da postare: (ad esempio foto/ oppure Desktop/instabot/foto): ")
 
             print("\nInserisci le descrizioni che saranno scelte in ordine casuale da mettere sotto i post, appena si ha finito premere 'gg'.\n ")
             comments = []
