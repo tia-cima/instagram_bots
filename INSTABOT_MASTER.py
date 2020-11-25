@@ -73,7 +73,7 @@ class User:
 
   
     def direct(self):
-        print("\nQuesta funzione ti permette di inviare un tot di messaggi a tua choice ad un singolo utente.\n")
+        print("\nQuesta funzione ti permette di inviare un tot di messaggi a tua scelta ad un singolo utente.\n")
     
         username, passw = login(self.user, self.passw)
         print("\n----------------------------")
@@ -172,7 +172,7 @@ class Post:
 
 
     def post(self):
-        print("\nQuesta funzione ti permette di postare piu' post differenti in un tot di tempo a tua choice. \n")
+        print("\nQuesta funzione ti permette di postare piu' post differenti in un tot di tempo a tua scelta. \n")
     
         username, passw = login(self.user, self.passw)
         print("\n----------------------------")
@@ -191,7 +191,7 @@ class Post:
 
 
     def post_more(self):
-            print("\nQuesta funzione ti permette di postare un solo post ogni tot di tempo a tua choice. \n")
+            print("\nQuesta funzione ti permette di postare un solo post ogni tot di tempo a tua scelta. \n")
         
             username, passw = login(self.user, self.passw)
             print("\n----------------------------")
